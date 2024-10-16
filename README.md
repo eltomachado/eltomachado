@@ -19,10 +19,9 @@
 
 ---
 
-### 📊 Minhas Estatísticas:
+### 🐍 Animação de Commits:
 
-![Metrics](https://github.com/eltomachado/eltomachado/blob/main/github-metrics.svg)
----
+![Snake animation](https://raw.githubusercontent.com/eltomachado/eltomachado/output/github-snake.svg)
 
 ### 📞 Contato:
 

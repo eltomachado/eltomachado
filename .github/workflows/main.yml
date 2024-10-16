@@ -1,7 +1,7 @@
 name: Metrics
 
 on:
-  schedule: 
+  schedule:
     - cron: '0 */12 * * *' 
   workflow_dispatch:
 
@@ -19,3 +19,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
+          output: ./metrics.svg  # Gera o arquivo "metrics.svg"

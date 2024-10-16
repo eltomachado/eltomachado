@@ -21,7 +21,7 @@
 
 ### 📊 Minhas Estatísticas:
 
-![Metrics](https://github.com/eltomachado/eltomachado/blob/main/github-metrics.svg)
+![Metrics](./metrics.svg)
 
 ---
 

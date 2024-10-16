@@ -19,9 +19,9 @@
 
 ---
 
-### 🐍 Snake Commit Graph:
+### 📊 Minhas Estatísticas:
 
-![Snake animation](https://github.com/eltomachado/eltomachado/blob/output/github-customization-grid-snake.svg)
+![Metrics](https://github.com/eltomachado/eltomachado/blob/main/github-metrics.svg)
 
 ---
 

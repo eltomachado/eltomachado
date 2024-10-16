@@ -1,9 +1,5 @@
 # Olá! Eu sou Elton Machado 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aTn2yUuQ8S9R9jG/giphy.gif" width="200" height="200" />
-</p>
-
 - 🔭 Atualmente trabalho com logística, mas estou em transição para a área de **Desenvolvimento Full Stack**.
 - 💻 Estudando ativamente **Python**, **JavaScript**, **CSS** e **React** na **Rocketseat**.
 - 📚 Nas horas vagas, aprimoro minhas habilidades em **algoritmos** e **inglês**.
@@ -34,19 +30,6 @@
 
 ---
 
-### 💻 Minhas Redes:
-
-<p align="center">
-  <a href="https://github.com/eltomachado">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/eltonmdb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 📊 Estatísticas:
 
 <p align="center">
@@ -56,21 +39,8 @@
 
 ---
 
-<style>
-  /* Adicionando animação ao título */
-  h1 {
-    animation: pulse 2s infinite;
-  }
+### 🌟 Contribuições:
 
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.05);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
+<p align="center">
+  <img src="https://github.com/eltomachado/eltomachado/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</p>

@@ -1,7 +1,3 @@
-Aqui está a versão ajustada do seu README, incluindo o gráfico animado da cobra que você mencionou, além das suas informações já existentes:
-
----
-
 # Olá! Eu sou Elton Machado 👋
 
 - 🔭 Atualmente trabalho com logística, mas estou em transição para a área de **Desenvolvimento Full Stack**.

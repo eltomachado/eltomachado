@@ -19,9 +19,12 @@
 
 ---
 
-### 🐍 Animação de Commits:
+### 📊 Minhas Estatísticas:
 
-![Snake animation](https://raw.githubusercontent.com/eltomachado/eltomachado/output/github-snake.svg)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eltomachado&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltomachado&theme=radical)
+
+---
 
 ### 📞 Contato:
 

@@ -15,13 +15,6 @@
   <img align="center" alt="elto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-### 📊 Minhas Estatísticas:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eltomachado&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltomachado&theme=radical" />
-</div>
-
 <div align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltomachado&theme=dracula">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltomachado&theme=dracula" />

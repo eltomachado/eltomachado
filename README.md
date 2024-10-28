@@ -5,9 +5,11 @@
 - 📚 Nas horas vagas, aprimoro minhas habilidades em **algoritmos** e **inglês**.
 - ⚡ Fun fact: Doce de leite é melhor que Nutella 😅
 
+<br>
+
 ### 🚀 Tecnologias e Ferramentas:
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="elto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="elto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="elto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,11 +17,15 @@
   <img align="center" alt="elto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltomachado&theme=dracula">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltomachado&theme=dracula" />
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eltomachado&row=1&column=6&theme=dracula&margin-w=15&margin-h=15" />

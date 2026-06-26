@@ -74,7 +74,7 @@
 <!-- ====== SNAKE ====== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eltomachado/eltomachado/output/github-snake.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/eltomachado/eltomachado/output/github-snake.svg?v=2" alt="snake" />
 
 </div>
 

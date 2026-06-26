@@ -85,7 +85,6 @@
 
 <a href="https://www.youtube.com/@eltonmachadoIA"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 <a href="https://instagram.com/eltomachado"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://www.linkedin.com/in/eltonmdb/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://api.whatsapp.com/send?phone=5547996072509&text=Ol%C3%A1!%20Vim%20pelo%20github"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
 <a href="mailto:ephidelly@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 

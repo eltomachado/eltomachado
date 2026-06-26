@@ -65,16 +65,12 @@
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltomachado&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=eltomachado&theme=matrix&no-frame=true&row=1&column=7&margin-w=8" />
-
 </div>
 
 <!-- ====== SNAKE ====== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eltomachado/eltomachado/output/github-snake.svg?v=2" alt="snake" />
+<img src="https://raw.githubusercontent.com/eltomachado/eltomachado/output/github-snake.svg?v=3" alt="snake" />
 
 </div>
 
